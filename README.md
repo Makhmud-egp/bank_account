@@ -1,4 +1,4 @@
-# 🏦 BankAccount Project (Day 10)
+# 🏦 BankAccount Project (beginner-friendly)
 
 A simple Python class that simulates a bank account with deposit, withdraw, and balance check.
 
